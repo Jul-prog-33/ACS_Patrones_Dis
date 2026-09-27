@@ -1,10 +1,3 @@
-"""
-Sistema de Inventario Inteligente - Menu interactivo por consola.
-
-Ejecutar con:  python main.py   (o  py main.py  en Windows)
-(parado en la carpeta que CONTIENE la carpeta inventory_system/)
-"""
-
 import sys
 
 # Arregla textos con tildes/enies que se ven mal en algunas consolas de Windows.
